@@ -57,26 +57,6 @@ The card below is my development and planning blog.
 
 ## About Me with detail
 
-<details>
-<summary>Click to expand</summary>
-
-To be honest, I used to think that GitHub should only contain things related to development.
-I also didn't really like sharing things about myself, so I had never really talked about my personal life anywhere. But now that I've redesigned my README and there aren't many people interested in me anymore, I thought I'd write a little about myself.
-Maybe this is what a real introduction is supposed to be like.
-I am just a student and, well, an unemployed young person, lol.
-So I have more things to talk about that I want to achieve than things I have already achieved.
-Perhaps my smallest yet biggest goal is to create a service that has people who keep coming back to use it.
-I've worked at a company and worked on projects outside of companies, but, somewhat embarrassingly, I've never had a service with a consistent user base.
-At my previous company, I joined a team that operated a fairly popular service. Less than a month later, I was moved to a task force for developing a new app.
-And... well, the service wasn't released for the next two years.
-Anyway, let's put those painful stories aside.
-Honestly, I just want to make the things I want to make.
-Things that are useful, if possible. Things that I need, and maybe you need, too.
-I just want to keep collecting the things I love, doing the things I love, and living that way.
-Writing things that have absolutely nothing to do with my career every now and then.
-
-</details>
-
 <div align="center">
 
 ¸¸.•*¨*•♫♪¸¸.•*¨*•♫♪¸¸.•*¨*•♫♪¸¸.•*¨*•♫♪
