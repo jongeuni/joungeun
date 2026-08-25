@@ -17,7 +17,7 @@ The card below is my development and planning blog.
 
 <div align="center">
 
-[<img src="https://markdown-box-generator.vercel.app/api/box?title=Develop%20Blog!&author=jongeuni&date=&style=TISTORY" width="30%" alt="box">](https://github.com/jongeuni/markdown-box-generator) [<img src="https://markdown-box-generator.vercel.app/api/box?title=Plan%20Blog!&author=jongeuni&date=&style=BRUNCH" width="30%" alt="box">](https://github.com/jongeuni/markdown-box-generator)
+[<img src="https://markdown-box-generator.vercel.app/api/box?title=Develop%20Blog!&author=yatta&date=developer&style=TISTORY" width="30%" alt="box">](https://github.com/jongeuni/markdown-box-generator) [<img src="https://markdown-box-generator.vercel.app/api/box?title=Plan%20Blog!&author=yatta&date=planner&style=BRUNCH" width="30%" alt="box">](https://github.com/jongeuni/markdown-box-generator)
 
 </div>
 
@@ -31,7 +31,7 @@ The card below is my development and planning blog.
 
 <div align="center">
 
-[<img src="https://markdown-box-generator.vercel.app/api/box?title=readme%20cavas!%20%20(A%20Super-Duper%20Highly%20Recommended%20Website)&author=jongeuni&date=&style=GITHUB" width="50%" alt="box">](https://github.com/jongeuni/markdown-box-generator)
+[<img src="https://markdown-box-generator.vercel.app/api/box?title=readme%20cavas!%20%20(A%20Super-Duper%20Highly%20Recommended%20Website)&author=readme-canvas&date=2026%20new%20service&style=GITHUB" width="50%" alt="box">](https://readme-canvas.com/)
 
 </div>
 
