@@ -9,7 +9,7 @@
 ~~*Not Backend Developer, Not Developer, Not ...*~~
 
 Hi! I enjoy many different types of writing. When I was a developer, I ran a developer blog. When I became interested in planning, I wrote about my thoughts and ideas for apps. Besides that, I enjoy writing about self-fulfillment, essays, and things that have nothing to do with development.  
-Actually, I don't usually write in English. But if I were to write an English blog, I would probably use* Medium.*
+Actually, I don't usually write in English. But if I were to write an English blog, I would probably use *Medium.*
 
 [![lje0818ovo](https://img.shields.io/badge/Medium-lje0818ovo-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@lje0818ovo)
 
@@ -31,7 +31,7 @@ The card below is my development and planning blog.
 
 <div align="center">
 
-[<img src="https://markdown-box-generator.vercel.app/api/box?title=readme%20cavas!%20%20(A%20Super-Duper%20Highly%20Recommended%20Website)&author=readme-canvas&date=2026%20new%20service&style=GITHUB" width="50%" alt="box">](https://readme-canvas.com/)
+[<img src="https://markdown-box-generator.vercel.app/api/box?title=readme%20cavas!%20%20(A%20Super-Duper%20Highly%20Recommended%20Website)&author=readme-canvas&date=2026%20new%20service&style=GITHUB" width="50%" alt="box">](https://github.com/jongeuni/github-readme-canvas)
 
 </div>
 
@@ -94,6 +94,6 @@ But anyway, I wanted to let you know that I wrote the first draft myself.
 
 <div align="center">
 
-*Made with* [Readme Canvas](https://readme-canvas.com)
+*Made with* [Readme Canvas](https://github.com/jongeuni/github-readme-canvas)
 
 </div>
