@@ -1,10 +1,12 @@
 <h2 align="center">Real introduce myself-</h2>
 
-<p align="center">🐟·´¯`·.´¯`·.¸🐠🐟·´¯`·.´¯`·.¸🐠🐟·´¯`·.´¯`·.¸🐠</p>
+<p align="center">
+
+🐟·´¯`·.´¯`·.¸🐠🐟·´¯`·.´¯`·.¸🐠🐟·´¯`·.´¯`·.¸🐠
+
+</p>
 
 ~~*Not Backend Developer, Not Developer, Not ...*~~
-
-~~**~~
 
 Hi! I like writing. If I had to introduce myself, I would say that I am a writer.
 
@@ -12,27 +14,55 @@ I enjoy many different types of writing. When I was a developer, I ran a develop
 
 Actually, I don't usually write in English. But if I were to write an English blog, I would probably use Medium.
 
-<p align="center">[![lje0818ovo](https://img.shields.io/badge/Medium-lje0818ovo-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@lje0818ovo)</p>
+<p align="center">
+
+[![lje0818ovo](https://img.shields.io/badge/Medium-lje0818ovo-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@lje0818ovo)
+
+</p>
 
 The card below is my development and planning blog.
 
 If you just want to create a simple README, you can check out this website.
 
-<p align="center">[<img src="https://markdown-box-generator.vercel.app/api/box?title=Develop%20Blog!&author=jongeuni&date=&style=TISTORY" width="50%" alt="box">](https://github.com/jongeuni/markdown-box-generator) [<img src="https://markdown-box-generator.vercel.app/api/box?title=Plan%20Blog!&author=jongeuni&date=&style=BRUNCH" width="50%" alt="box">](https://github.com/jongeuni/markdown-box-generator)</p>
+<p align="center">
 
-<p align="center">🐟·´¯`·.´¯`·.¸🐠🐟·´¯`·.´¯`·.¸🐠🐟·´¯`·.´¯`·.¸🐠</p>
+[<img src="https://markdown-box-generator.vercel.app/api/box?title=Develop%20Blog!&author=jongeuni&date=&style=TISTORY" width="50%" alt="box">](https://github.com/jongeuni/markdown-box-generator) [<img src="https://markdown-box-generator.vercel.app/api/box?title=Plan%20Blog!&author=jongeuni&date=&style=BRUNCH" width="50%" alt="box">](https://github.com/jongeuni/markdown-box-generator)
+
+</p>
+
+<p align="center">
+
+🐟·´¯`·.´¯`·.¸🐠🐟·´¯`·.´¯`·.¸🐠🐟·´¯`·.´¯`·.¸🐠
+
+</p>
 
 ### If you want to simply make readme, you can check this website.
 
-<p align="center">[<img src="https://markdown-box-generator.vercel.app/api/box?title=readme%20cavas!%20%20(A%20Super-Duper%20Highly%20Recommended%20Website)&author=jongeuni&date=&style=GITHUB" width="100%" alt="box">](https://github.com/jongeuni/markdown-box-generator)</p>
+<p align="center">
 
-<p align="center">╔═══°∴,*⋅✲══〖✰〗══✲⋅*,∴°═══╗</p>
+[<img src="https://markdown-box-generator.vercel.app/api/box?title=readme%20cavas!%20%20(A%20Super-Duper%20Highly%20Recommended%20Website)&author=jongeuni&date=&style=GITHUB" width="50%" alt="box">](https://github.com/jongeuni/markdown-box-generator)
+
+</p>
+
+<p align="center">
+
+╔═══°∴,*⋅✲══〖✰〗══✲⋅*,∴°═══╗
+
+</p>
 
 <h3 align="center">2026 GOAL.ᐟ.ᐟ.ᐟ.ᐟ ✨  ₍⸝⸝•ᢦ- ₎⸝⸝ި ʕᦏ´-</h3>
 
-<p align="center">📝 Launch two apps (-ing)</p>
+<p align="center">
 
-<p align="center">╚═══°∴,*⋅✲══〖✰〗══✲⋅*,∴°═══╝</p>
+📝 Launch two apps (-ing)
+
+</p>
+
+<p align="center">
+
+╚═══°∴,*⋅✲══〖✰〗══✲⋅*,∴°═══╝
+
+</p>
 
 ## About Me with detail
 
@@ -64,7 +94,11 @@ I just want to keep collecting the things I love, doing the things I love, and l
 
 Writing things that have absolutely nothing to do with my career every now and then.
 
-<p align="center">¸¸.•*¨*•♫♪¸¸.•*¨*•♫♪¸¸.•*¨*•♫♪¸¸.•*¨*•♫♪</p>
+<p align="center">
+
+¸¸.•*¨*•♫♪¸¸.•*¨*•♫♪¸¸.•*¨*•♫♪¸¸.•*¨*•♫♪
+
+</p>
 
 <h3 align="center">What I'm Up To These Days</h3>
 
@@ -78,7 +112,11 @@ Writing things that have absolutely nothing to do with my career every now and t
 
 1. 💭 Thinking about relationships
 
-<p align="center">¸¸.•*¨*•♫♪¸¸.•*¨*•♫♪¸¸.•*¨*•♫♪¸¸.•*¨*•♫♪</p>
+<p align="center">
+
+¸¸.•*¨*•♫♪¸¸.•*¨*•♫♪¸¸.•*¨*•♫♪¸¸.•*¨*•♫♪
+
+</p>
 
 Thank you for taking an interest in me and reading this.
 
