@@ -8,15 +8,12 @@
 
 ~~*Not Backend Developer, Not Developer, Not ...*~~
 
-Hi! I enjoy many different types of writing. When I was a developer, I ran a developer blog. When I became interested in planning, I wrote about my thoughts and ideas for apps. Besides that, I enjoy writing about self-fulfillment, essays, and things that have nothing to do with development.
-
-Actually, I don't usually write in English. But if I were to write an English blog, I would probably use Medium.
+Hi! I enjoy many different types of writing. When I was a developer, I ran a developer blog. When I became interested in planning, I wrote about my thoughts and ideas for apps. Besides that, I enjoy writing about self-fulfillment, essays, and things that have nothing to do with development.  
+Actually, I don't usually write in English. But if I were to write an English blog, I would probably use* Medium.*
 
 [![lje0818ovo](https://img.shields.io/badge/Medium-lje0818ovo-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@lje0818ovo)
 
 The card below is my development and planning blog.
-
-If you just want to create a simple README, you can check out this website.
 
 <div align="center">
 
@@ -30,7 +27,7 @@ If you just want to create a simple README, you can check out this website.
 
 </div>
 
-### If you want to simply make readme, you can check this website.
+### *✨ If you want to simply make readme, you can check this website. 👇*
 
 <div align="center">
 
