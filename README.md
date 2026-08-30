@@ -82,11 +82,7 @@ The card below is my development and planning blog.
 </div>
 
 Thank you for taking an interest in me and reading this.  
-I hope happiness lingers around you.  
-Oh, and one more thing.  
-I'm actually not very good at English. I wrote this little by little, as best as I could, and asked GPT to correct the grammatically incorrect parts.  
-So if this feels a little awkward to you, that's probably why.  
-But anyway, I wanted to let you know that I wrote the first draft myself.
+I hope happiness lingers around you.
 
 ***Thank you.***
 
@@ -94,6 +90,6 @@ But anyway, I wanted to let you know that I wrote the first draft myself.
 
 <div align="center">
 
-*Made with* [Readme Canvas](https://github.com/jongeuni/github-readme-canvas)
+*Made with* [Readme Canvas](https://www.readme-canvas.com)
 
 </div>
